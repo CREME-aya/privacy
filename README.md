@@ -1,2 +1,0 @@
-# privacy
-privacyの詳細
